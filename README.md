@@ -1,4 +1,4 @@
-### Hi there 👋   I am Eunsol Kim.
+### Hi there 👋    I am Eunsol Kim.
 
 I have recently completed my master´s in Comparative Literature 🎓. Proudly an enthusiast of textual practices who codes.
 I´m currently learning C programming in 42 Heilbronn, working on *libft*. 👩🏻‍💻 Excited to start my new journey!

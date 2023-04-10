@@ -1,7 +1,7 @@
 ### Hi there, I am Eunsol Kim. 👋
 
 Recently completed my master´s in Comparative Literature 🎓 – proudly an enthusiast of textual practices who codes.
-I´m currently learning C programming in 42 Heilbronn, working on *pipex*. 👩🏻‍💻 Excited to start my new journey !
+I´m currently learning C programming in 42 Heilbronn, working on *Philosophers*. 👩🏻‍💻 Excited to start my new journey !
 <!--
 **euns-kim/euns-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

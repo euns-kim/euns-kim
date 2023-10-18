@@ -1,7 +1,6 @@
-### Hi there, I am Eunsol Kim. 👋
+### Hi there!
 
-Recently completed my master´s in Comparative Literature 🎓 – proudly an enthusiast of textual practices who codes.
-I´m currently learning C programming in 42 Heilbronn, working on *minishell*. 👩🏻‍💻 Excited to start my new journey !
+I am Eunsol Kim. 👋
 <!--
 **euns-kim/euns-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

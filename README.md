@@ -1,6 +1,8 @@
 ### Hi there!
 
 I am Eunsol Kim. 👋
+
+Here you can find all the 42 Common Core projects I have done in recent years.
 <!--
 **euns-kim/euns-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
